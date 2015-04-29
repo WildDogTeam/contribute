@@ -14,4 +14,4 @@ RFC7252 《受限应用协议》 即将校稿完成，即将发布
 
 ### Codes
 
-1，BroadCom Wiced 安全OTA升级，即将发布
+1，博通Wiced模组 安全OTA升级，即将发布
