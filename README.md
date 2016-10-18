@@ -3,7 +3,7 @@
 
 Mac Liu (WildDog CEO) :
 
-由于最近WildDog的工作较多，相应的进展并不是很快。我们已经将很多有关WildDo示例及代码均开源在github上。请查看 http://github.com/WildDogTeam 。
+由于最近WildDog的工作较多，相应的进展并不是很快。我们已经将很多有关WildDog示例及代码均开源在github上。请查看 http://github.com/WildDogTeam 。
 
 
 
